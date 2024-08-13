@@ -4,7 +4,6 @@
 	"description": "Smart Heading is unique",
 	"author": "@iqbal1hossain",
 	"license": "GPL-2.0-or-later",
-	"homepage": "smart-heading",
 	"main": "build/index.js",
 	"files": [
 		"build",
@@ -19,7 +18,7 @@
 		"lint:css": "wp-scripts lint-style",
 		"lint:js": "wp-scripts lint-js",
 		"packages-update": "wp-scripts packages-update",
-		"plugin-zip": "wp-scripts plugin-zip",
+		"plugin-zip": "node ./packages/create-zip/index.js",
 		"start": "wp-scripts start"
 	},
 	"devDependencies": {
