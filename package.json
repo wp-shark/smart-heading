@@ -6,6 +6,12 @@
 	"license": "GPL-2.0-or-later",
 	"homepage": "smart-heading",
 	"main": "build/index.js",
+	"files": [
+		"build",
+		"languages",
+		"smart-heading.php",
+		"readme.txt"
+	],
 	"scripts": {
 		"build": "wp-scripts build ",
 		"make-pot": "wp i18n make-pot ./ languages/smart-heading.pot",
