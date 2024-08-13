@@ -10,9 +10,6 @@ none
 # Coverage directory used by tools like istanbul
 coverage
 
-# Output of `wp-scripts plugin-zip`
-*.zip
-
 # OS X file
 **/.DS_Store
 
