@@ -8,6 +8,7 @@
 	"main": "build/index.js",
 	"scripts": {
 		"build": "wp-scripts build ",
+		"make-pot": "wp i18n make-pot ./ languages/smart-heading.pot",
 		"format": "wp-scripts format",
 		"lint:css": "wp-scripts lint-style",
 		"lint:js": "wp-scripts lint-js",
