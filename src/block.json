@@ -1,0 +1,60 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "smart-heading/heading",
+	"version": "0.0.1",
+	"title": "Smart Heading",
+	"category": "design",
+	"icon": "tool",
+	"description": "Smart Heading is unique",
+	"example": {},
+	"attributes": {
+		"headingText": {
+			"type": "string",
+			"default": "Let's write a Haiku"
+		},
+		"descriptionText": {
+			"type": "string",
+			"default": "A traditional Japanese haiku is a three-line poem with seventeen syllables, written in a 5/7/5 syllable count."
+		},
+		"headingTitleSize": {
+            "type": "number",
+            "default": 26
+        },
+        "headingTitleColor": {
+            "type": "string",
+            "default": "#000000"
+        },
+        "headingTitleMarginBottom": {
+            "type": "number",
+            "default": 0
+        },
+		"headingTitleAlignment": {
+			"type": "string",
+			"default": "left"
+		},
+		"descriptionTextSize": {
+            "type": "number",
+            "default": 16
+        },
+        "descriptionTextColor": {
+            "type": "string",
+            "default": "#000000"
+        },
+        "descriptionTextMarginBottom": {
+            "type": "number",
+            "default": 0
+        },
+		"descriptionTextAlignment": {
+			"type": "string",
+			"default": "left"
+		}
+	},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "smart-heading",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
