@@ -1,55 +1,42 @@
-=== Smart Heading ===
+=== Smart Heading Blocks for Gutenberg Block Editor ===
 Contributors:      @iqbal1hossain
-Tags:              block
-Tested up to:      6.1
+Tags:              block editor, gutenberg blocks, gutenberg, heading Blocks
+Requires at least: 6.1
+Tested up to:      6.6
+Requires PHP:      7.0
 Stable tag:        1.0.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Smart Heading is unique
+Seamlessly merge titles and description to craft bold, impactful statements directly within your Gutenberg experience
 
 == Description ==
 
-This is the long description. No limit, and you can use Markdown (as well as in the following sections).
+The Heading widget helps you to build an attractive header with description.
 
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+
+### Expert Support
+We have extra-ordinary support team ready to help you. Ask your questions in the support forum.
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
+2. Activate the plugin through the 'Plugins' screen in WordPress
+3. (Make your instructions match the desired user flow for activating and installing your plugin. Include any steps that might be needed for explanatory purposes)
 
-e.g.
-
-1. Upload the plugin files to the `/wp-content/plugins/smart-heading` directory, or install the plugin through the WordPress plugins screen directly.
-1. Activate the plugin through the 'Plugins' screen in WordPress
 
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= How to use Smart Heading? =
 
-An answer to that question.
+Login your WordPress dashboard,  Active Smart Heading Plugin go page and search bloacks.
 
-= What about foo bar? =
-
-Answer to foo bar dilemma.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
 
 == Changelog ==
 
-= 0.0.1 =
-* Release
-
-== Arbitrary section ==
-
-You may provide arbitrary sections, in the same format as the ones above. This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation." Arbitrary sections will be shown below the built-in sections outlined above.
+= 1.0.0 =
+* Initial stable release

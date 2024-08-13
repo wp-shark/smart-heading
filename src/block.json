@@ -2,11 +2,11 @@
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
 	"name": "smart-heading/heading",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"title": "Smart Heading",
-	"category": "design",
+	"category": "text",
 	"icon": "tool",
-	"description": "Smart Heading is unique",
+	"description": "Seamlessly merge titles and description to craft bold, impactful statements directly within your Gutenberg experience",
 	"example": {},
 	"attributes": {
 		"headingText": {

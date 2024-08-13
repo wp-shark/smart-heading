@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Smart Heading
  * Plugin URI:        smart-heading
- * Description:       Smart Heading is unique
+ * Description:       Seamlessly merge titles and description to craft bold, impactful statements directly within your Gutenberg experience
  * Requires at least: 6.1
  * Requires PHP:      7.0
  * Version:           1.0.0
