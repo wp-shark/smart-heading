@@ -19,7 +19,8 @@
 		"lint:js": "wp-scripts lint-js",
 		"packages-update": "wp-scripts packages-update",
 		"plugin-zip": "node ./packages/create-zip/index.js",
-		"start": "wp-scripts start"
+		"start": "wp-scripts start",
+		"publish": "npm run build && npm run make-pot && npm run plugin-zip"
 	},
 	"devDependencies": {
 		"@wordpress/scripts": "^27.9.0"
