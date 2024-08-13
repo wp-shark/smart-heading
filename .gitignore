@@ -10,9 +10,15 @@ none
 # Coverage directory used by tools like istanbul
 coverage
 
-# Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+# Output of `wp-scripts plugin-zip`
+*.zip
+
+# OS X file
+**/.DS_Store
+
+# build file
 build/
+.wp-env.json
 
 # Dependency directories
 node_modules/
