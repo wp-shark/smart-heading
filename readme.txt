@@ -4,7 +4,7 @@ Tags:              block editor, gutenberg blocks, gutenberg, heading Blocks
 Requires at least: 6.1
 Tested up to:      6.6
 Requires PHP:      7.0
-Stable tag:        1.0.0
+Stable tag:        1.0.1
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,6 +24,15 @@ We have extra-ordinary support team ready to help you. Ask your questions in the
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. (Make your instructions match the desired user flow for activating and installing your plugin. Include any steps that might be needed for explanatory purposes)
 
+
+== Developer Notes ==
+
+This plugin uses npm and webpack to build and minify assets. If you want to access the original, uncompressed code, it is located in the `https://github.com/wp-shark/smart-heading` directory within the plugin.
+
+### How to Build the Plugin
+
+1. Run `npm install` to install the required dependencies.
+2. Run `npm run build` to compile the assets.
 
 
 == Frequently Asked Questions ==
