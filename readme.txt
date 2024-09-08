@@ -27,7 +27,7 @@ We have extra-ordinary support team ready to help you. Ask your questions in the
 
 == Developer Notes ==
 
-This plugin uses npm and webpack to build and minify assets. If you want to access the original, uncompressed code, it is located in the `https://github.com/wp-shark/smart-heading` directory within the plugin.
+This plugin uses npm and webpack to build and minify assets. If you want to access the original, uncompressed code, it is located in the `https://github.com/wp-shark/smart-heading` directory.
 
 ### How to Build the Plugin
 
