@@ -1,4 +1,4 @@
-=== Smart Heading Blocks for Block Editor ===
+=== Smart Heading ===
 Contributors:      @iqbal1hossain
 Tags:              block editor, gutenberg blocks, gutenberg, heading Blocks
 Requires at least: 6.1
