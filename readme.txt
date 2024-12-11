@@ -1,10 +1,10 @@
-=== Smart Heading ===
+=== Smart Heading - Heading blocks for Gutenberg, Advanced Heading ===
 Contributors:      @iqbal1hossain
-Tags:              block, blocks heading, title, heading Blocks
+Tags:              block, blocks heading, title, heading Blocks, advanced heading
 Requires at least: 6.1
 Tested up to:      6.7
 Requires PHP:      7.0
-Stable tag:        1.0.2
+Stable tag:        1.0.3
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,9 @@ Smart Heading helps you create structured, stylish, and informative headers by c
 
 
 == Changelog ==
+
+= 1.0.3 =
+Fixed: Minor bug fixes and improvements
 
 = 1.0.0 =
 * Initial stable release
