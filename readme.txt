@@ -1,10 +1,10 @@
 === Smart Heading ===
 Contributors:      @iqbal1hossain
-Tags:              block editor, gutenberg blocks, gutenberg, heading Blocks
+Tags:              block, blocks heading, title, heading Blocks
 Requires at least: 6.1
-Tested up to:      6.6
+Tested up to:      6.7
 Requires PHP:      7.0
-Stable tag:        1.0.1
+Stable tag:        1.0.2
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
